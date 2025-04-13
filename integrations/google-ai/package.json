@@ -10,7 +10,7 @@
     "@botpress/client": "workspace:*",
     "@botpress/common": "workspace:*",
     "@botpress/sdk": "workspace:*",
-    "@google/generative-ai": "^0.21.0"
+    "@google/generative-ai": "^0.24.0"
   },
   "devDependencies": {
     "@botpress/cli": "workspace:*",
