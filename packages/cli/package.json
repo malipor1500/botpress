@@ -25,7 +25,7 @@
     "@botpress/sdk": "3.5.1",
     "@bpinternal/const": "^0.1.0",
     "@bpinternal/tunnel": "^0.1.1",
-    "@bpinternal/yargs-extra": "^0.0.3",
+    "@bpinternal/yargs-extra": "^0.0.19",
     "@parcel/watcher": "^2.1.0",
     "@stoplight/spectral-core": "^1.19.1",
     "@stoplight/spectral-functions": "^1.9.0",
