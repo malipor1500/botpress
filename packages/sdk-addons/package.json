@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "@botpress/sdk": "workspace:*",
-    "@sentry/node": "^7.53.1"
+    "@sentry/node": "^7.75.0"
   }
 }
