@@ -15,7 +15,7 @@
   "dependencies": {
     "@botpress/api": "0.79.0",
     "@bpinternal/opapi": "0.12.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "zod": "^3.20.6"
   }
 }
