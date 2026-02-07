@@ -17,7 +17,7 @@
     "@botpress/common": "workspace:*",
     "@botpress/sdk": "workspace:*",
     "@botpress/sdk-addons": "workspace:*",
-    "@react-email/components": "0.0.25",
+    "@react-email/components": "0.0.29",
     "gmail-api-parse-message": "^2.1.2",
     "googleapis": "^112.0.0",
     "node-html-parser": "^6",
